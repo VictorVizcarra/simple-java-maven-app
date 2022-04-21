@@ -53,7 +53,7 @@ job('Job test Hola Mundo') {
    	}  
 	steps {
 		shell('''
-			echo "vamos 20 puntos!!!"
+			echo "Hola Mundo!!!"
 		''')
 	}
 }
